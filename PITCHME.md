@@ -43,14 +43,14 @@ ID とは
   - 内線番号  →途中で変更になるかも
   - メールアドレス  →持たない人がいるかも
 
-どうやってデータを検索すればいい?
+<div class="onepoint-box">どうやってデータを検索すればいい?</div>
 
 ---
 
 ID とは
 -----
 
-<span class="onepoint">⇒ 社員 ID で紐づける</span>
+<div class="onepoint-box">⇒ 社員 ID で紐づける</div>
 
 - 「社員」を構成するデータ
   - **社員 ID**
