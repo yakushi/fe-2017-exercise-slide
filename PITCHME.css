@@ -1,0 +1,7 @@
+.onepoint-box {
+    border: 2px solid;
+    border-radius: 4px;
+    margin: 2em 0;
+    padding: 2em;
+    position: relative;
+}
