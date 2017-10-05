@@ -1,0 +1,7 @@
+.reveal div .onepoint-box {
+    border: 2px solid;
+    border-radius: 4px;
+    margin: 0.6em 0;
+    padding: 0.4em 2em;
+    position: relative;
+}
